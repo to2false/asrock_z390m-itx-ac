@@ -4,7 +4,7 @@ Version 10.15.4 (19E266)
 ### 配置
 |类型|型号|
 |---|---|
-|主板｜asrock z390m-itx/ac|
+|主板|asrock z390m-itx/ac|
 |CPU| i5 9600k|
 |显卡| 蓝宝石 rx570 4G |
 |网卡&蓝牙|BCM94352Z DW1560|
