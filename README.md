@@ -17,6 +17,7 @@ Wifi、蓝牙、声音、麦克风、usb、睡眠唤醒、iMessage & airdrop 正
 SideCar不行
 
 ⚠️ 已抹除序列号相关信息，可用Clover Configurator 生成
+⚠️ 生成完后请用[OpenCore](https://github.com/acidanthera/OpenCorePkg)里的Utilities/CreateValue进行加密
 
 ### 参考资料
 - [使用OpenCore引导黑苹果](https://blog.xjn819.com/?p=543)
